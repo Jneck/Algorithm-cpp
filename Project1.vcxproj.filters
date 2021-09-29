@@ -66,7 +66,13 @@
     <ClCompile Include="옥상 정원 꾸미기_6198.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="큐 2_18258.cpp">
+    <ClCompile Include="회전하는 큐_1021.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="AC_5430.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
