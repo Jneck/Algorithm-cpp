@@ -66,5 +66,8 @@
     <ClCompile Include="옥상 정원 꾸미기_6198.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="큐 2_18258.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
